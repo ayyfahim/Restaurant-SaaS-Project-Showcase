@@ -8,6 +8,7 @@ Dinness is a Laravel based Restaruant SAAS built by me. It uses ReactJs to run t
 
 <br>
 
+## Client Pages:
 <img src="/store_front.png" width="18%"></img>
 <img src="/store_front_2.png" width="18%"></img>
 <img src="/homepage.png" width="18%"></img>
@@ -21,7 +22,6 @@ Dinness is a Laravel based Restaruant SAAS built by me. It uses ReactJs to run t
 <img src="/guestmode.png" width="18%"></img>
 <img src="/scan_qr.png" width="18%"></img>
 <img src="/Screenshot_1.png" width="18%"></img>
-
 
 
 ## All Features :
