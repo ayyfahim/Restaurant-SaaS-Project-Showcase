@@ -102,6 +102,8 @@ All orders on the table can be paid at once by a customer.
 
 Customer can add multiple cards on their account. So next time they can chose a card.
 
+![ADD CARDS](/addCard.png)
+
 ### VIEW ORDERS AND RECEIPTS
 
 Viewing all orders and seeing receipts can be done from the customer menu.
@@ -109,6 +111,10 @@ Viewing all orders and seeing receipts can be done from the customer menu.
 ### LOGIN THROUGH OTP AND SOCIAL MEDIA
 
 Customer can login with their Phone numbers. They can also login using their Facebook and Google accounts.
+
+![Login](/login.png)
+![Login](/login_2.png)
+![Login](/login_3.png)
 
 ---
 
