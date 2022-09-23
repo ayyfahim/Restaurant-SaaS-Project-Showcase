@@ -112,13 +112,9 @@ Viewing all orders and seeing receipts can be done from the customer menu.
 
 Customer can login with their Phone numbers. They can also login using their Facebook and Google accounts.
 
-<div align="center" style"display: flex;"> 
-
-![Login](/login.png)
-![Login](/login_2.png)
-![Login](/login_3.png)
-  
-</div>
+<img src="/login.png" width="30%"></img> 
+<img src="/login_2.png" width="30%"></img> 
+<img src="/login_3.png" width="30%"></img>
 
 ---
 
