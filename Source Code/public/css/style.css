@@ -1,0 +1,21 @@
+/* No CSS *//*# sourceMappingURL=style.css.map */
+.dashboard{
+    padding-top: 10px;
+    padding-left: 15px;
+}
+.dashboard span{
+    color: rgb(211, 0, 0);
+}
+.dashboard-img{
+    padding-top: 10px;
+    text-align:end;
+    max-width:100%;
+}
+.dashboard-img{
+    padding-top: 10px;
+    text-align:end;
+    max-width:100%;
+}
+.dashboard-img img{
+    max-width:60%;
+}

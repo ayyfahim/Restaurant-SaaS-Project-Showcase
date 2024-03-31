@@ -1,0 +1,87 @@
+.headqr{
+	width: 100%;
+	height: 200px;
+	background-color: #fff;
+	color: #000;
+	-webkit-box-shadow: -1px -7px 10px -6px rgba(61,61,61,0.58);
+-moz-box-shadow: -1px -7px 10px -6px rgba(61,61,61,0.58);
+box-shadow: -1px -7px 10px -6px rgba(61,61,61,0.58);
+
+	border-top-left-radius: 25px;
+	border-top-right-radius: 25px;
+
+
+	 position: fixed;
+  left: 0;
+  bottom: 0;
+  text-align: center;
+
+}
+
+.headlogo{
+
+	margin-top: 20px;
+
+
+
+}
+
+.shopinn{
+
+margin-top: 10px;
+}
+
+
+.qrcode{
+
+
+	width: 90%;;
+	height: 300px;
+
+	margin-left: 10%;
+	margin-right: 10%;
+
+	background-color: #fff;
+	border: 3px solid #000;
+	border-radius: 30px;
+
+}
+
+.qrimg{
+	margin-top: 7%;
+}
+
+.text-qr{
+	text-align: center;
+	margin-left: 20%;
+	margin-top: 10px;
+}
+
+
+.qrfooter1{
+
+	width: 100%;
+	height: 15px;
+	background-color: #29c4ff;
+
+
+	 position: fixed;
+  left: 0;
+  bottom: 0;
+  text-align: center;
+
+}
+
+.qrfooter2{
+
+	width: 100%;
+	height: 15px;
+	background-color: #2ee9b7;
+
+
+	 position: fixed;
+  left: 0;
+  bottom: 15px;
+  text-align: center;
+
+}

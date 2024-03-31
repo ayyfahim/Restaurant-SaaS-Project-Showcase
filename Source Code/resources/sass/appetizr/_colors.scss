@@ -1,0 +1,23 @@
+.bg-red {
+    background: rgb(211, 0, 0) !important;
+}
+
+.bg-black {
+    background: rgb(0, 0, 0) !important;
+}
+
+.fill-red {
+    fill: rgb(211, 0, 0);
+}
+
+.fill-black {
+    fill: rgb(0, 0, 0);
+}
+
+.bg-light-gray-2 {
+    background: $light-gray2;
+}
+
+.custom-color-red {
+    color: $redColor3 !important;
+}
