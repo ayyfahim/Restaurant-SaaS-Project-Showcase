@@ -1,10 +1,8 @@
-# Restaurant App
+# Restaurant SaaS Project Showcase
 
 <br>
 
-Dinness is a Laravel based Restaruant SAAS built by me. It uses ReactJs to run the Front-end. 
-
-[Online Demo](https://dinness.topcruder.com)
+Dinness is a Laravel based Restaruant SAAS. It uses ReactJs to run the Front-end. 
 
 <br>
 
